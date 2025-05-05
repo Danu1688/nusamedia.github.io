@@ -4,7 +4,14 @@
 
 ########################################################################
 
+#EXTINF:-1 type="playlist",JJ
+https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
 
+#EXTINF:-1 type="playlist",MMPP
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
+
+#EXTINF:-1 type="playlist",AFDGI
+https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
 
 ########################################################################
 
