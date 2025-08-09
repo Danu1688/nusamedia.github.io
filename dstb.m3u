@@ -7,8 +7,14 @@
 #EXTINF:-1 type="playlist",fta
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/fta.m3u8
 
+#EXTINF:-1 type="playlist",dw
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
+
 #EXTINF:-1 type="playlist",jeje
 https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
+
+#EXTINF:-1 type="playlist",anomnim
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/JejeVISION.m3u
 
 #EXTINF:-1 type="playlist",denstv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
@@ -16,14 +22,48 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
 #EXTINF:-1 type="playlist",playlist25
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
 
-#EXTINF:-1 type="playlist",trial
+#EXTINF:-1 type="playlist",udptv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
+
+#EXTINF:-1 type="playlist",trial
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/udptv
 
 #EXTINF:-1 type="playlist",v+
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
 
+#EXTINF:-1 type="playlist",210225
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/210225
+
+#EXTINF:-1 type="playlist",TV
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/TV
+
 #EXTINF:-1 type="playlist",afdgi
 https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
+
+#EXTINF:-1 type="playlist",afd
+https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
+
+########################################################################
+
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/gsh3JQg.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/KU9R3ZR.png",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/5LCTihb.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PRrzyHd.png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 ########################################################################
 
