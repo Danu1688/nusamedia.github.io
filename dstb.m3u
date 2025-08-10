@@ -7,14 +7,8 @@
 #EXTINF:-1 type="playlist",fta
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/fta.m3u8
 
-#EXTINF:-1 type="playlist",dw
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
-
 #EXTINF:-1 type="playlist",jeje
 https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
-
-#EXTINF:-1 type="playlist",anomnim
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/JejeVISION.m3u
 
 #EXTINF:-1 type="playlist",denstv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
@@ -22,14 +16,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
 #EXTINF:-1 type="playlist",playlist25
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
 
-#EXTINF:-1 type="playlist",udptv
+#EXTINF:-1 type="playlist",trial
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
 
-#EXTINF:-1 type="playlist",trial
+#EXTINF:-1 type="playlist",udptv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/udptv
 
 #EXTINF:-1 type="playlist",v+
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
 
 #EXTINF:-1 type="playlist",210225
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/210225
