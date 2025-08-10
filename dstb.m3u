@@ -48,10 +48,10 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/shareext.m3u
 
 #EXTINF:-1 type="playlist",Shareext@playlist
-https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext%40playlist
+https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareex@playlist
 
 #EXTINF:-1 type="playlist",Shareext-LokalHiburan
-https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext%40LokalHiburan.m3u
+https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
 
 ########################################################################
 
