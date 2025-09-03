@@ -43,6 +43,8 @@ https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main
 #EXTINF:-1 type="playlist",shareext2
 https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext@playlist
 
+#EXTINF:-1 type="playlist",new2025
+https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
 
 ########################################################################
 
@@ -18633,3 +18635,4 @@ http://doubleclickstreams.xyz:80/Sammy38/Sammy38/931503
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/931504
 #EXTINF:-1 tvg-id="WWE.za" tvg-name="SuperSport WWE Network FHD" tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/WWE.za.png" group-title="SPORTS | DSTV Supersports",SuperSport WWE Network FHD
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/931505
+
