@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/OdOX09.m3u
 
 #EXTINF:-1 type="playlist",playlist25.m3u
-#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/playlist25.m3u
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/playlist25.m3u
 
 #EXTINF:-1 type="playlist",rezaiptv.m3u
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/rezaiptv.m3u
@@ -19020,6 +19020,7 @@ https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://fl25.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="YES Network" tvg-id="Yes.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="MOVEONJOY" radio="false",YES Network
 https://fl25.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
