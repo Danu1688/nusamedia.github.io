@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext@playlist
 
 #EXTINF:-1 type="playlist",new2025
-https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
+#https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
 
 #EXTINF:-1 type="playlist",akuuu
 https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
 #https://raw.githubusercontent.com/hnnyo/anyar/main/tesss
 
 #EXTINF:-1 type="playlist",indos3
-https://raw.githubusercontent.com/hnnyo/anyar/main/indos3.m3u8
+#https://raw.githubusercontent.com/hnnyo/anyar/main/indos3.m3u8
 
 ########################################################################
 
@@ -18723,6 +18723,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs16
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
 
