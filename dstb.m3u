@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/shareext.m3u
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
 
 #EXTINF:-1 type="playlist",daddylive-channels
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/daddylive-channels
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/daddylive-channels
 
 #EXTINF:-1 type="playlist",210225
 https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
@@ -18712,6 +18712,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs16
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
 
