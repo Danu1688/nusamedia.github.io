@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8
 
 #EXTINF:-1 type="playlist",playlist.m3u8
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/playlist.m3u8
+#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/playlist.m3u8
 
 #EXTINF:-1 type="playlist",OdOX09.m3u
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/OdOX09.m3u
@@ -18712,6 +18712,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs16
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
 
