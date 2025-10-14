@@ -10,6 +10,9 @@
 #EXTINF:-1 type="playlist",MAYTOKO2
 #https://raw.githubusercontent.com/MayToko/sport_m3u/main/MAYTOKO2.m3u8
 
+#EXTINF:-1 type="playlist",Test
+https://raw.githubusercontent.com/MayToko/Adult/refs/heads/main/Test
+
 #EXTINF:-1 type="playlist",shareext
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/shareext.m3u
 
@@ -18770,6 +18773,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs16
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="JAPAN" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
 
