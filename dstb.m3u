@@ -68,10 +68,10 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/rezaiptv.m3u
 #https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 
 #EXTINF:-1 type="playlist",Shareext@LokalHiburan.m3u
-https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
+#https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
 
 #EXTINF:-1 type="playlist",Shareext@playlist
-https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext@playlist
+#https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext@playlist
 
 #EXTINF:-1 type="playlist",new2025
 #https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
@@ -86,6 +86,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
 #https://raw.githubusercontent.com/hnnyo/anyar/main/indos3.m3u8
 
 ########################################################################
+
 
 
 
