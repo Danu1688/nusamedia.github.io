@@ -56,16 +56,16 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/rezaiptv.m3u
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/daddylive-channels
 
 #EXTINF:-1 type="playlist",210225
-#https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
+https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
 
 #EXTINF:-1 type="playlist",TV
-#https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
+https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 
 #EXTINF:-1 type="playlist",afdgi
-#https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
+https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
 
 #EXTINF:-1 type="playlist",Free
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
+https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 
 #EXTINF:-1 type="playlist",Shareext@LokalHiburan
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
@@ -5153,5 +5153,6 @@ http://185.188.188.237:5000/live/filmboxextra/playlist.m3u8
 https://176.116.105.82/FilmBoxExtra_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",nickjr
 http://185.188.188.237:5000/live/nickjr/playlist.m3u8
+
 
 
