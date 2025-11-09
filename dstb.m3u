@@ -11,7 +11,7 @@
 #https://raw.githubusercontent.com/MayToko/sport_m3u/main/MAYTOKO2.m3u8
 
 #EXTINF:-1 type="playlist",new2025
-#https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
+https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
 
 #EXTINF:-1 type="playlist",Test
 https://raw.githubusercontent.com/MayToko/Adult/main/Test
@@ -6732,7 +6732,6 @@ https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
 
 
 
-
 76
 
 
@@ -6745,6 +6744,10 @@ https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
 
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="CHANNEL | SPORTS",WWE Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 
 #EXTINF:-1 tvg-id="Sportstars.id" group-title="CHANNEL | SPORT INDO" tvg-name="Sportstars" tvg-logo="https://cdn.urfan.id/logo/sportstars.png", | Sportstars
@@ -14733,7 +14736,6 @@ https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1N
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> NASIONAL TV
 //========================================================================
-
 
 
 #EXTM3U
