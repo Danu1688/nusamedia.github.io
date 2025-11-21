@@ -80,7 +80,7 @@
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext@playlist
 
 #EXTINF:-1 type="playlist",akuuu
-https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
+#https://raw.githubusercontent.com/hnnyo/anyar/main/akuuu.m3u
 
 #EXTINF:-1 type="playlist",tesss
 #https://raw.githubusercontent.com/hnnyo/anyar/main/tesss
@@ -26992,3 +26992,4 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",vinayagamusic_*
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/chunklist_w1173294218.m3u8
+
