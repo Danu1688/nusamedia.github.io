@@ -80,7 +80,7 @@
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/main/Shareext@playlist
 
 #EXTINF:-1 type="playlist",aku.m3u
-#https://raw.githubusercontent.com/hnnyo/cct/main/aku.m3u
+https://raw.githubusercontent.com/hnnyo/cct/main/aku.m3u
 
 #EXTINF:-1 type="playlist",tesss
 #https://raw.githubusercontent.com/hnnyo/anyar/main/tesss
@@ -19734,6 +19734,7 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg"  group-title="SHAREEXT@LIVE||SPORTS",Turkmen Sport HD
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
 
 
 
