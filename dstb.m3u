@@ -94,11 +94,26 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 #EXTINF:-1 type="playlist",ZALMI
 https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 
+#EXTINF:-1 type="playlist",ZALMI
+https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
+
 #EXTINF:-1 type="playlist",Lannaatv
 https://raw.githubusercontent.com/Lannaatv/domu/main/new-VISION%2B.m3u
 
 #EXTINF:-1 type="playlist",zokerpunk
 https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
+
+#EXTINF:-1 type="playlist",abidinrj
+https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
+
+#EXTINF:-1 type="playlist",Dropbeaterz-TV
+https://raw.githubusercontent.com/Dropbeat-Developer-2/Dropbeaterz-TV/General/dropbeaterz.m3u
+
+#EXTINF:-1 type="playlist",Neo045
+https://raw.githubusercontent.com/Neo045/Extra/main/Fifa_Live_Shihab.m3u
+
+#EXTINF:-1 type="playlist",denimaung
+https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 
 ########################################################################
 
