@@ -115,6 +115,21 @@ https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
 #EXTINF:-1 type="playlist",abidinrj
 https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
+#EXTINF:-1 type="playlist",dhanytv-ott
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
+
+#EXTINF:-1 type="playlist",dhanytv
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+
+#EXTINF:-1 type="playlist",epg.xml
+https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
+
+#EXTINF:-1 type="playlist",windozalmi
+https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/simpan%20channel%20unik
+
+#EXTINF:-1 type="playlist",rosdiyanto
+https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
+
 ########################################################################
 
 
@@ -4435,8 +4450,6 @@ https://live.tamilvision.tv/TVI/HD/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 
 https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
 
@@ -7489,6 +7502,4 @@ http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg"  group-title="SHAREEXT@LIVE||SPORTS",Turkmen Sport HD
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-
 
