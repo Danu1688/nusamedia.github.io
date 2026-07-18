@@ -2,7 +2,6 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="1440" max-conn="2" refresh="24"
 #EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8"
 #EXTM3U billed-msg="KHUSUS PELANGGAN TV NUSA NET"
-$BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
 ########################################################################
 
