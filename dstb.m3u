@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="1440" max-conn="2" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="1440" max-conn="2" refresh="24"
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="1440" max-conn="2" refresh="24"
 #EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8"
 #EXTM3U billed-msg="KHUSUS PELANGGAN TV NUSA NET"
@@ -154,3 +155,5 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 ########################################################################
 
 
+#EXTINF:-1 tvg-id="TVRI.SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="PIALA DUNIA TVRI NUSA NET",TVRI SPORT (NUSANET)
+http://157.15.187.3:25092/hls/49/49.m3u8
