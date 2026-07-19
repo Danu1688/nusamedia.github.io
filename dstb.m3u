@@ -69,6 +69,9 @@
 #EXTINF:-1 type="playlist",210225
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
 
+#EXTINF:-1 type="playlist",Free
+#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
+
 #EXTINF:-1 type="playlist",TV
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 
@@ -96,9 +99,6 @@
 #EXTINF:-1 type="playlist",denimaung
 #https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 
-#EXTINF:-1 type="playlist",Free
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
-
 #EXTINF:-1 type="playlist",ZALMI
 #https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
 
@@ -111,6 +111,9 @@ https://raw.githubusercontent.com/hnnyo/cct/main/aku.m3u
 
 #EXTINF:-1 type="playlist",ZALMI
 https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
+
+#EXTINF:-1 type="playlist",Free
+https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 
 #EXTINF:-1 type="playlist",Lannaatv
 https://raw.githubusercontent.com/Lannaatv/domu/main/new-VISION%2B.m3u
@@ -155,5 +158,5 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 ########################################################################
 
 
-#EXTINF:-1 tvg-id="TVRI.SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="PIALA DUNIA TVRI NUSA NET",TVRI SPORT (NUSANET)
+#EXTINF:-1 tvg-id="TVRI.SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="PIALA DUNIA TVRI NUSA.NET",TVRI SPORT (NUSANET)
 http://157.15.187.3:25092/hls/49/49.m3u8
