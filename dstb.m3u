@@ -72,6 +72,9 @@
 #EXTINF:-1 type="playlist",afdgi
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
 
+#EXTINF:-1 type="playlist",Free
+#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
+
 #EXTINF:-1 type="playlist",Shareext@LokalHiburan
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
 
@@ -108,9 +111,6 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 
 #EXTINF:-1 type="playlist",channel_unik
 https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/simpan%20channel%20unik
-
-#EXTINF:-1 type="playlist",Free
-https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 
 #EXTINF:-1 type="playlist",Lannaatv1
 https://raw.githubusercontent.com/Lannaatv/domu/main/m3u.m3u
