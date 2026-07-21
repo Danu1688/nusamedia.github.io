@@ -33,9 +33,6 @@
 #EXTINF:-1 type="playlist",OdOX09.m3u
 #https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/OdOX09.m3u
 
-#EXTINF:-1 type="playlist",playlist25
-#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/playlist25
-
 #EXTINF:-1 type="playlist",playlist25.m3u
 #https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/playlist25.m3u
 
@@ -96,9 +93,6 @@
 #EXTINF:-1 type="playlist",denimaung
 #https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 
-#EXTINF:-1 type="playlist",Free
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
-
 #EXTINF:-1 type="playlist",ZALMI
 #https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
 
@@ -144,9 +138,6 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 
 #EXTINF:-1 type="playlist",rosdiyanto
 https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
-
-#EXTINF:-1 type="playlist",anomnim
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/playlist.m3u8
 
 #EXTINF:-1 type="playlist",World_Cup
 https://raw.githubusercontent.com/apistech/project/main/playlists/World_Cup.m3u
