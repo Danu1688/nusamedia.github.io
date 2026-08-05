@@ -122,10 +122,10 @@ https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
 
 #EXTINF:-1 type="playlist",dhanytv
-https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 #EXTINF:-1 type="playlist",epg.xml
-https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
+#https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
 
 #EXTINF:-1 type="playlist",windozalmi
 https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
@@ -134,7 +134,7 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 #https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
 
 #EXTINF:-1 type="playlist",liveeventsfilter
-https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
+#https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
 
 #EXTINF:-1 type="playlist",rctiplus
 #https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
