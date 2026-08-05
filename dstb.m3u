@@ -119,28 +119,28 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 #https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",dhanytv-ott
-https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
+#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
 
 #EXTINF:-1 type="playlist",dhanytv
-https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 #EXTINF:-1 type="playlist",epg.xml
 https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
 
 #EXTINF:-1 type="playlist",windozalmi
-https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
+#https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 
 #EXTINF:-1 type="playlist",rosdiyanto
 #https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
 
 #EXTINF:-1 type="playlist",liveeventsfilter
-https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
+#https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
 
 #EXTINF:-1 type="playlist",rctiplus
-https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
+#https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
-https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
+#https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 #EXTINF:-1 type="playlist",ShareNusa.m3u
 #https://github.com/Danu1688/DSTBTV/raw/refs/heads/main/ShareNusa.m3u
