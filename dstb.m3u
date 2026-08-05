@@ -61,7 +61,7 @@
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/daddylive-channels
 
 #EXTINF:-1 type="playlist",smt_mimipipi
-#https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/smt
+https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 
 #EXTINF:-1 type="playlist",210225
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
@@ -88,13 +88,13 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 #https://raw.githubusercontent.com/hnnyo/anyar/main/indos3.m3u8
 
 #EXTINF:-1 type="playlist",Dropbeaterz-TV
-#https://raw.githubusercontent.com/Dropbeat-Developer-2/Dropbeaterz-TV/General/dropbeaterz.m3u
+https://raw.githubusercontent.com/Dropbeat-Developer-2/Dropbeaterz-TV/General/dropbeaterz.m3u
 
 #EXTINF:-1 type="playlist",Neo045
 #https://raw.githubusercontent.com/Neo045/Extra/main/Fifa_Live_Shihab.m3u
 
 #EXTINF:-1 type="playlist",denimaung
-#https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+https://raw.githubusercontent.com/denimaung/nontontv/main/playlist.M3U
 
 #EXTINF:-1 type="playlist",ZALMI
 #https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 #https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
 
 #EXTINF:-1 type="playlist",abidinrj
-#https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
+https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",dhanytv-ott
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
@@ -134,7 +134,7 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 #https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
 
 #EXTINF:-1 type="playlist",liveeventsfilter
-#https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
+https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
 
 #EXTINF:-1 type="playlist",rctiplus
 #https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
