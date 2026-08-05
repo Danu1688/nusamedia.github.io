@@ -122,7 +122,7 @@ https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
 
 #EXTINF:-1 type="playlist",dhanytv
-#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 #EXTINF:-1 type="playlist",epg.xml
 https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
