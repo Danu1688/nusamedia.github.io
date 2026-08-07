@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
 
 #EXTINF:-1 type="playlist",Free
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
+https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 
 #EXTINF:-1 type="playlist",Shareext@LokalHiburan
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
@@ -100,10 +100,10 @@ https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 #https://raw.githubusercontent.com/Neo045/Extra/main/Fifa_Live_Shihab.m3u
 
 #EXTINF:-1 type="playlist",denimaung
-#https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 
 #EXTINF:-1 type="playlist",ZALMI
-#https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
+https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
 
 #EXTINF:-1 type="playlist",shareext
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext%40LokalHiburan.m3u
@@ -119,10 +119,10 @@ https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 #https://raw.githubusercontent.com/Lannaatv/domu/main/raw.txt
 
 #EXTINF:-1 type="playlist",zokerpunk
-#https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
+https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
 
 #EXTINF:-1 type="playlist",abidinrj
-#https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
+https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",dhanytv-ott
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
