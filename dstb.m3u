@@ -119,10 +119,10 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",dhanytv-ott
-#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
 
 #EXTINF:-1 type="playlist",dhanytv
-#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 #EXTINF:-1 type="playlist",epg.xml
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
@@ -140,9 +140,9 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 #https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
-#https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
+https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 #EXTINF:-1 type="playlist",ShareNusa.m3u
-#https://github.com/Danu1688/DSTBTV/raw/refs/heads/main/ShareNusa.m3u
+https://github.com/Danu1688/DSTBTV/raw/refs/heads/main/ShareNusa.m3u
 
 ########################################################################
