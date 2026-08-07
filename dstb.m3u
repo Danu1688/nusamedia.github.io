@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
 
 #EXTINF:-1 type="playlist",windozalmi
-#https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
+https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 
 #EXTINF:-1 type="playlist",rosdiyanto
 #https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
