@@ -151,13 +151,13 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 https://github.com/Danu1688/DSTBTV/raw/refs/heads/main/ShareNusa.m3u
 
 #EXTINF:-1 type="playlist",Mamipapi1.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi1.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi1.m3u
 
 #EXTINF:-1 type="playlist",Mamipapi2.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi2.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi2.m3u
 
 #EXTINF:-1 type="playlist",Mamipapi3.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi3.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi3.m3u
 
 #EXTINF:-1 type="playlist",AFD.m3u
 https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
