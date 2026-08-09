@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
 
 #EXTINF:-1 type="playlist",Free
-https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
+#https://raw.githubusercontent.com/AFDigitalTV/AFD/main/Free
 
 #EXTINF:-1 type="playlist",Shareext@LokalHiburan
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext@LokalHiburan.m3u
