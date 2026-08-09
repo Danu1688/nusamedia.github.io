@@ -123,10 +123,10 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 #https://raw.githubusercontent.com/zokerpunk/iptv2/main/digital.m3u
 
 #EXTINF:-1 type="playlist",playlist
-#https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
+https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",premium
-https://raw.githubusercontent.com/abidinrj/nontontv/main/premium
+#https://raw.githubusercontent.com/abidinrj/nontontv/main/premium
 
 #EXTINF:-1 type="playlist",rosdiyanto
 #https://raw.githubusercontent.com/rosdiyanto/iptv/refs/heads/main/Play.m3u
