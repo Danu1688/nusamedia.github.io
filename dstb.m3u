@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/karepech/livetv/refs/heads/main/epg-sports.xml, https://raw.githubusercontent.com/karepech/newera/refs/heads/main/epg.xml, https://raw.githubusercontent.com/karepech/Epgku/refs/heads/main/epg_wib_sports.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+#EXTM3U vod_library="https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u"
 #EXTM3U billed-msg="KHUSUS PELANGGAN TV NUSA NET"
 
 ########################################################################
@@ -221,7 +222,7 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 
 #EXTINF:-1 type="playlist",album_iwan.m3u
-https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/album_iwan.m3u
+#https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/album_iwan.m3u
 
 #EXTINF:-1 type="playlist",musiqku.m3u
 #https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/musiqku.m3u
@@ -269,6 +270,9 @@ https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
 
 #EXTINF:-1 type="playlist",AFD.m3u
 https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
+
+#EXTINF:-1 type="playlist",Album_VOD.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u
 
 #EXTINF:-1 type="playlist",Musikqu.m3u
 https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
