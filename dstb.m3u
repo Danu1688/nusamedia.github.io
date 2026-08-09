@@ -224,7 +224,7 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/album_iwan.m3u
 
 #EXTINF:-1 type="playlist",musiqku.m3u
-https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/musiqku.m3u
+#https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/musiqku.m3u
 
 
 
@@ -269,5 +269,8 @@ https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
 
 #EXTINF:-1 type="playlist",AFD.m3u
 https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
+
+#EXTINF:-1 type="playlist",Musikqu.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
 
 ########################################################################
