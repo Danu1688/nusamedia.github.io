@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/karepech/livetv/refs/heads/main/epg-sports.xml, https://raw.githubusercontent.com/karepech/newera/refs/heads/main/epg.xml, https://raw.githubusercontent.com/karepech/Epgku/refs/heads/main/epg_wib_sports.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/karepech/livetv/refs/heads/main/epg-sports.xml, https://raw.githubusercontent.com/karepech/newera/refs/heads/main/epg.xml, https://raw.githubusercontent.com/karepech/Epgku/refs/heads/main/epg_wib_sports.xml, https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/main/guide.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 #EXTM3U billed-msg="KHUSUS PELANGGAN TV NUSA NET"
 
 ########################################################################
@@ -161,7 +161,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 
 
 #EXTINF:-1 type="playlist",playlist
-#https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
+https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",premium
 #https://raw.githubusercontent.com/abidinrj/nontontv/main/premium
@@ -250,6 +250,13 @@ https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 
 #EXTINF:-1 type="playlist",indonesia_synced.m3u
 https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
+
+
+
+
+
+#EXTINF:-1 type="playlist",LiveTV.m3u
+https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/main/LiveTV/Indonesia/LiveTV.m3u
 
 
 
