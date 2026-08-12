@@ -190,11 +190,8 @@ https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 
 
-#EXTINF:-1 type="playlist",ZALMI
-#https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/playlist25.m3u
-
 #EXTINF:-1 type="playlist",windozalmi
-https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Aktif-2025/m3u/IPTV%20Indonesia%20by%20WINDO%20ZALMI
+https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 
 
 
