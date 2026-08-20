@@ -268,12 +268,12 @@ https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi3.m3u
 
 #EXTINF:-1 type="playlist",AFD.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
 
 #EXTINF:-1 type="playlist",Album_VOD.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u
 
 #EXTINF:-1 type="playlist",Musikqu.m3u
-#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
 
 ########################################################################
