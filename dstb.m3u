@@ -187,7 +187,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 #https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv-ott.m3u
 
 #EXTINF:-1 type="playlist",dhanytv
-https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
+#https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 
 
@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 #https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
-#https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
+https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 
 
