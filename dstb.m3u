@@ -279,4 +279,7 @@ https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 #EXTINF:-1 type="playlist",Movies_Musiqku.m3u
 https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Movies_Musiqku.m3u
 
+#EXTINF:-1 type="playlist",IndoTV_Abidun.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/refs/heads/main/IndoTV_Abidun.m3u
+
 ########################################################################
