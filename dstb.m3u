@@ -161,7 +161,7 @@
 
 
 #EXTINF:-1 type="playlist",playlist
-https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
+#https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",premium
 #https://raw.githubusercontent.com/abidinrj/nontontv/main/premium
@@ -208,10 +208,10 @@ https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV
 
 
 #EXTINF:-1 type="playlist",liveeventsfilter
-https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
+#https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
 
 #EXTINF:-1 type="playlist",rctiplus
-https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
+#https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
 https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
@@ -231,25 +231,25 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 
 #EXTINF:-1 type="playlist",live-auto.m3u
-https://raw.githubusercontent.com/karepech/bwifilive/main/live-auto.m3u
+#https://raw.githubusercontent.com/karepech/bwifilive/main/live-auto.m3u
 
 #EXTINF:-1 type="playlist",playlist_termapping.m3u
-https://raw.githubusercontent.com/karepech/laporan/main/playlist_termapping.m3u
+#https://raw.githubusercontent.com/karepech/laporan/main/playlist_termapping.m3u
 
 #EXTINF:-1 type="playlist",live_match.m3u
-https://raw.githubusercontent.com/karepech/TVKU/main/live_match.m3u
+#https://raw.githubusercontent.com/karepech/TVKU/main/live_match.m3u
 
 #EXTINF:-1 type="playlist",live-raw-grouped.m3u
-https://raw.githubusercontent.com/karepech/TVG/main/live-raw-grouped.m3u
+#https://raw.githubusercontent.com/karepech/TVG/main/live-raw-grouped.m3u
 
 #EXTINF:-1 type="playlist",live-raw-grouped.m3u
-https://raw.githubusercontent.com/karepech/BakulwifiTV/main/live-raw-grouped.m3u
+#https://raw.githubusercontent.com/karepech/BakulwifiTV/main/live-raw-grouped.m3u
 
 #EXTINF:-1 type="playlist",event_combined.m3u
-https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
+#https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 
 #EXTINF:-1 type="playlist",indonesia_synced.m3u
-https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
+#https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
 
 
 
@@ -274,6 +274,6 @@ https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u
 
 #EXTINF:-1 type="playlist",Musikqu.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
 
 ########################################################################
