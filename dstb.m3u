@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 
 
 #EXTINF:-1 type="playlist",windozalmi
-https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV%20Indonesia%20by%20WINDO%20ZALMI
+#https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 
 
 
@@ -208,13 +208,13 @@ https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV
 
 
 #EXTINF:-1 type="playlist",liveeventsfilter
-https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
+#https://raw.githubusercontent.com/apistech/project/main/playlists/liveeventsfilter.m3u8
 
 #EXTINF:-1 type="playlist",rctiplus
-https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
+#https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
-https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
+#https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 
 
@@ -268,7 +268,7 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi3.m3u
 
 #EXTINF:-1 type="playlist",AFD.m3u
-#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
 
 #EXTINF:-1 type="playlist",Album_VOD.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u
