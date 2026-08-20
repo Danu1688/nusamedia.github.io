@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV
 #https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
-#https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
+https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 
 
@@ -249,7 +249,7 @@ https://raw.githubusercontent.com/karepech/BakulwifiTV/main/live-raw-grouped.m3u
 https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 
 #EXTINF:-1 type="playlist",indonesia_synced.m3u
-#https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
+https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
 
 
 
