@@ -77,7 +77,7 @@
 #https://raw.githubusercontent.com/mimipipi22/live/main/ayomaling
 
 #EXTINF:-1 type="playlist",lelipur
-https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
+#https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 
 #EXTINF:-1 type="playlist",test
 #https://raw.githubusercontent.com/mimipipi22/live/main/test
@@ -268,10 +268,10 @@ https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi3.m3u
 
 #EXTINF:-1 type="playlist",AFD.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/AFD.m3u
 
 #EXTINF:-1 type="playlist",Album_VOD.m3u
-https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u
+#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Album_VOD.m3u
 
 #EXTINF:-1 type="playlist",Musikqu.m3u
 https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
