@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 #https://raw.githubusercontent.com/apistech/project/main/playlists/rctiplus.m3u
 
 #EXTINF:-1 type="playlist",IndihomeTV
-https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
+#https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 
 
 
