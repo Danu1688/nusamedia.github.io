@@ -90,7 +90,7 @@
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
 
 #EXTINF:-1 type="playlist",TV
-#https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
+https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 
 #EXTINF:-1 type="playlist",afdgi
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
