@@ -77,7 +77,7 @@
 #https://raw.githubusercontent.com/mimipipi22/live/main/ayomaling
 
 #EXTINF:-1 type="playlist",lelipur
-#https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
+https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 
 #EXTINF:-1 type="playlist",test
 #https://raw.githubusercontent.com/mimipipi22/live/main/test
@@ -191,7 +191,7 @@ https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/premium
 
 
 #EXTINF:-1 type="playlist",windozalmi
-#https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV%20Indonesia%20by%20WINDO%20ZALMI
+https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/m3u-ipvt/IPTV%20Indonesia%20by%20WINDO%20ZALMI
 
 
 
@@ -253,7 +253,7 @@ https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 
 
 #EXTINF:-1 type="playlist",ShareNusa.m3u
-#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
 
 #EXTINF:-1 type="playlist",Mamipapi1.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Mamipapi1.m3u
@@ -289,6 +289,6 @@ https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/IndoTV_RctiPlus_Apistech.m3u
 
 #EXTINF:-1 type="playlist",IndoTV_Abidun.m3u
-#https://raw.githubusercontent.com/Danu1688/DSTBTV/refs/heads/main/IndoTV_Abidun.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/refs/heads/main/IndoTV_Abidun.m3u
 
 ########################################################################
