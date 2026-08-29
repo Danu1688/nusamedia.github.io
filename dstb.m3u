@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/mimipipi22/live/main/lelipur
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/210225
 
 #EXTINF:-1 type="playlist",TV
-https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 
 #EXTINF:-1 type="playlist",afdgi
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/main/donasi
@@ -161,7 +161,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/main/TV
 #https://raw.githubusercontent.com/abidinrj/nontontv/main/playlist
 
 #EXTINF:-1 type="playlist",premium
-https://raw.githubusercontent.com/abidinrj/nontontv/main/premium
+https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/premium
 
 
 
@@ -221,7 +221,7 @@ https://raw.githubusercontent.com/apistech/project/main/IndihomeTV.m3u
 #https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/album_iwan.m3u
 
 #EXTINF:-1 type="playlist",musiqku.m3u
-#https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/main/musiqku.m3u
+https://raw.githubusercontent.com/ali-fajar/kumpulan-musik-jadul/refs/heads/main/musiqku.m3u
 
 
 
@@ -246,7 +246,7 @@ https://raw.githubusercontent.com/karepech/BakulwifiTV/main/live-raw-grouped.m3u
 https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 
 #EXTINF:-1 type="playlist",indonesia_synced.m3u
-https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
+#https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
 
 
 
