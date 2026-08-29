@@ -246,7 +246,7 @@ https://raw.githubusercontent.com/karepech/BakulwifiTV/main/live-raw-grouped.m3u
 https://raw.githubusercontent.com/karepech/tv/main/output/event_combined.m3u
 
 #EXTINF:-1 type="playlist",indonesia_synced.m3u
-#https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
+https://raw.githubusercontent.com/karepech/ott/main/indonesia_synced.m3u
 
 
 
@@ -274,7 +274,7 @@ https://raw.githubusercontent.com/Danu1688/DSTBTV/main/ShareNusa.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Musikqu.m3u
 
 #EXTINF:-1 type="playlist",Movies_Musiqku.m3u
-#https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Movies_Musiqku.m3u
+https://raw.githubusercontent.com/Danu1688/DSTBTV/main/Movies_Musiqku.m3u
 
 #EXTINF:-1 type="playlist",IndoTV_Mamipapi.m3u
 #https://raw.githubusercontent.com/Danu1688/DSTBTV/main/IndoTV_Mamipapi.m3u
